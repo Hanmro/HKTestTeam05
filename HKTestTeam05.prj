@@ -6,6 +6,7 @@
    <UUID>d998f6de-8239-44fa-807f-2f9750749d2f</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>G:\katalon git\HKTestTeam05\HKTestTeam05.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
