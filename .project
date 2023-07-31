@@ -143,8 +143,7 @@
 			</matcher>
 		</filter>
 		<filter>
-<<<<<<< HEAD
-			<id>1690799825480</id>
+			<id>1690806566922</id>
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -153,37 +152,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1690799825494</id>
-=======
-			<id>1690804855464</id>
-			<name></name>
-			<type>10</type>
-			<matcher>
-				<id>org.eclipse.core.resources.regexFilterMatcher</id>
-				<arguments>.*\.svn$</arguments>
-			</matcher>
-		</filter>
-		<filter>
-			<id>1690804855520</id>
-			<name></name>
-			<type>6</type>
-			<matcher>
-				<id>org.eclipse.core.resources.regexFilterMatcher</id>
-				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
-			</matcher>
-		</filter>
-		<filter>
-			<id>1690805116276</id>
-			<name></name>
-			<type>10</type>
-			<matcher>
-				<id>org.eclipse.core.resources.regexFilterMatcher</id>
-				<arguments>.*\.svn$</arguments>
-			</matcher>
-		</filter>
-		<filter>
-			<id>1690805116285</id>
->>>>>>> branch 'master' of https://github.com/Hanmro/HKTestTeam05.git
+			<id>1690806566927</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
