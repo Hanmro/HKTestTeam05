@@ -33,7 +33,5 @@ WebUI.click(findTestObject('Object Repository/Logout Page/Page_TestProject Demo/
 
 WebUI.closeBrowser()
 
-WebUI.comment('测试5人员')
-
-WebUI.comment('12345')
+WebUI.comment('换掉评论')
 
