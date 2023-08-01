@@ -33,5 +33,5 @@ WebUI.click(findTestObject('Object Repository/Logout Page/Page_TestProject Demo/
 
 WebUI.closeBrowser()
 
-WebUI.comment('换掉评论')
+WebUI.comment('换掉评论，检测冲突')
 
