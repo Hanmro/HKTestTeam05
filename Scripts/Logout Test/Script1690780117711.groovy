@@ -33,9 +33,5 @@ WebUI.click(findTestObject('Object Repository/Logout Page/Page_TestProject Demo/
 
 WebUI.closeBrowser()
 
-<<<<<<< HEAD
-WebUI.comment('换掉评论##')
-=======
 WebUI.comment('换掉评论，检测冲突')
->>>>>>> branch 'master' of https://github.com/Hanmro/HKTestTeam05.git
 
