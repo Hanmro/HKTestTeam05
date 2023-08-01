@@ -35,3 +35,5 @@ WebUI.closeBrowser()
 
 WebUI.comment('换掉评论，检测冲突，测试多人同时修改')
 
+WebUI.comment('劲爆热点评论。')
+
